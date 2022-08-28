@@ -1,0 +1,49 @@
+body{
+	background-image: url(flag.jpeg);
+	background-position: center;
+}
+
+h1{	font-family: Verdana;
+	color: white;
+	font-size: 40px;
+}
+
+#box{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+}
+
+#header{
+	background-image: url(dark-triangles.png);
+}
+
+#jln{
+	font-family: times;
+	word-spacing: 5px;
+	color: #ffcfda;
+	font-size: 20px;
+}
+
+#hlm{
+	background-image: url(full-bloom.png);
+	font-family: times;
+	font-size: 15px;
+}
+
+#wellcome{
+	font-family: Brush Script MT;
+	color: #170f80;
+	font-size: 35px;
+}
+
+#table{
+	background-color: #f2ff63;
+}
+
+#footer{
+	font-family: arial;
+	font-style: italic;
+	color: white;
+	background-image: url(dark-triangles.png);
+}
